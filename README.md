@@ -27,7 +27,7 @@ pip install pandas numpy scikit-learn yfinance imbalanced-learn matplotlib seabo
 ### Running the Model
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-price-prediction.git
+   git clone https://github.com/sakuna47/stock-price-prediction.git
    cd stock-price-prediction
    ```
 
